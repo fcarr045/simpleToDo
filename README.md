@@ -4,7 +4,7 @@
 
 Submitted by: **Fayed Carraha**
 
-Time spent: **1 hr 30min ** hours spent in total
+Time spent: ** 2 hr** hours spent in total
 
 ## User Stories
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/fcarr045/simpleToDo/blob/main/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
